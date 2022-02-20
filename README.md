@@ -1,2 +1,1 @@
-# special-octo-memory
-e
+# NC27
